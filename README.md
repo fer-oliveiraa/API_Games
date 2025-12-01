@@ -79,4 +79,30 @@ Use este corpo na requisição POST:
   "lancamento": 1998
 }
 ```
+#
+<details>
+  <summary>Clique para ver as evidências (Screenshots)</summary>
+
+  ### 1. Criar Game (POST)
+  ![POST](screenshots/POST.png)
+
+  ### 2. Listar Todos (GET)
+  ![GET](screenshots/GET.png)
+
+  ### 3. Buscar por ID (GET)
+  ![GET ID](screenshots/GET_ID.png)
+
+  ### 4. Atualizar Game (PUT)
+  ![PUT](screenshots/PUT.png)
+
+  ### 5. Deletar Game (DELETE)
+  ![DELETE](screenshots/DELETE.png)
+
+  ### 6. Validação de Erro
+  ![Erro](screenshots/Teste_Erro.png)
+  
+  </details>
+
+#
+
 > Desenvolvido por Fernanda como parte da disciplina de Programação para Internet II.
